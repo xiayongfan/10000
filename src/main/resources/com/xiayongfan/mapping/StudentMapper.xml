@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xiayongfan.dao.mybatis.StudentDao">
+<!-- 定义结果集 -->
+	<resultMap type="com.xiayongfan.pojo.Student" id="BaseResultMap">
+		 <id column="stuID" property="stuid" jdbcType="INTEGER" />
+    	<result column="stuName" property="stuname" jdbcType="VARCHAR" />
+    	<result column="stuAge" property="stuage" jdbcType="INTEGER" />
+    	<result column="stuSex" property="stusex" jdbcType="VARCHAR" />
+    	<result column="stuPhone" property="stuphone" jdbcType="INTEGER" />
+    </resultMap>
+
+			<insert id="addStu" parameterType="com.xiayongfan.pojo.Student">
+					insert into student(stuName,stuAge,stuSex,stuPhone)
+					values(#{stuname},#{stuage},#{stusex},#{stuphone})
+			</insert>
+
+			<delete id="deleteStu" parameterType="INTEGER">
+					delete from student where stuID=#{stuid}
+			</delete>
+			
+			
+			<update id="updateStu" parameterType="INTEGER">
+					update student set stuPhone=#{stuphone} where stuID=#{stuid}
+			</update>
+			
+			
+			<select id="selectAll" resultMap="BaseResultMap">
+			
+					select stuID,stuName,stuAge,stuSex,stuPhone from student
+			</select>
+			<!-- 方法名字，参数，返回结果输入输出处理 -->
+			<select id="selectByID" resultMap="BaseResultMap" parameterType="com.xiayongfan.pojo.Student">
+			
+					select stuID,stuName,stuAge,stuSex,stuPhone from student where stuID=#{stuid}
+			</select>
+			
+				
+				<select id="selectByName" resultMap="BaseResultMap" parameterType="com.xiayongfan.pojo.Student">
+			
+					select stuID,stuName,stuAge,stuSex,stuPhone from student where
+					 stuName LIKE CONCAT('%',#{stuname},'%')
+			</select>
+			
+				
+</mapper>
