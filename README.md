@@ -7,3 +7,4 @@ mybatis 一对多 字段匹配原理 http://m.blog.csdn.net/blog/xzm_rainbow/153
 mybatsi n+1问题http://m.blog.csdn.net/blog/legend_x/11887815
 http://www.cnblogs.com/timlearn/p/4161567.html?utm_source=tuicool&utm_medium=referral mybatis源码浅析
 MySQL Innodb日志机制深入分析http://tech.uc.cn/?p=716
+eclipse debug breakpoing linenumberhttp://blog.csdn.net/wwbmyos/article/details/13503241
