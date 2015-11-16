@@ -15,3 +15,4 @@ http://wenku.baidu.com/link?url=Cbp06X6zozh7lTSMHD4hrCLyYfPBYX0CtPLbUaTh_mqBU7sp
 http://wenku.baidu.com/link?url=4YCoZ11M5exLG2lqNyTqbJU5JvYmiqvFvDJnxnw_7NJyIETO_M3fnmsG-AkK1ZSEi0miLJymeZpUIIaYOOXhE60iCKMtlGb2Ap_1YxebPB3  innodb的锁和事务详解
 MySQL Innodb表导致死锁日志情况分析与归纳  http://www.jb51.net/article/32651.htm http://www.jb51.net/article/51508.htm
 http://hedengcheng.com/?p=844 一个最不可思议的MySQL死锁分析
+MySQL 加锁处理分析 http://hedengcheng.com/?p=771
