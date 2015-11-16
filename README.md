@@ -12,3 +12,4 @@ MySQL数据库InnoDB存储引擎Log漫游http://blog.163.com/zihuan_xuan/blog/st
 http://www.mamicode.com/info-detail-864093.html%20myisam%20innodb%20%E6%AC%A1%E7%BA%A7%20%E7%B4%A2%E5%BC%95%E7%9A%84%E5%8C%BA%E5%88%AB
 http://www.2cto.com/database/201306/219691.html InnoDB行格式剖析
 http://wenku.baidu.com/link?url=Cbp06X6zozh7lTSMHD4hrCLyYfPBYX0CtPLbUaTh_mqBU7spYCzBncVHM7hUXHOgWvi9r9EwjhNCJ-bv9M0esTgSnDRX_tGSg3_f7vVwUbS MySQL源码分析.03.InnoDB 物理文件格式与数据恢复
+http://wenku.baidu.com/link?url=4YCoZ11M5exLG2lqNyTqbJU5JvYmiqvFvDJnxnw_7NJyIETO_M3fnmsG-AkK1ZSEi0miLJymeZpUIIaYOOXhE60iCKMtlGb2Ap_1YxebPB3  innodb的锁和事务详解
