@@ -13,4 +13,4 @@ http://www.mamicode.com/info-detail-864093.html%20myisam%20innodb%20%E6%AC%A1%E7
 http://www.2cto.com/database/201306/219691.html InnoDB行格式剖析
 http://wenku.baidu.com/link?url=Cbp06X6zozh7lTSMHD4hrCLyYfPBYX0CtPLbUaTh_mqBU7spYCzBncVHM7hUXHOgWvi9r9EwjhNCJ-bv9M0esTgSnDRX_tGSg3_f7vVwUbS MySQL源码分析.03.InnoDB 物理文件格式与数据恢复
 http://wenku.baidu.com/link?url=4YCoZ11M5exLG2lqNyTqbJU5JvYmiqvFvDJnxnw_7NJyIETO_M3fnmsG-AkK1ZSEi0miLJymeZpUIIaYOOXhE60iCKMtlGb2Ap_1YxebPB3  innodb的锁和事务详解
-MySQL Innodb表导致死锁日志情况分析与归纳  http://www.jb51.net/article/32651.htm
+MySQL Innodb表导致死锁日志情况分析与归纳  http://www.jb51.net/article/32651.htm http://www.jb51.net/article/51508.htm
