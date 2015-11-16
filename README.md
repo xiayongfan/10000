@@ -8,3 +8,4 @@ mybatsi n+1问题http://m.blog.csdn.net/blog/legend_x/11887815
 http://www.cnblogs.com/timlearn/p/4161567.html?utm_source=tuicool&utm_medium=referral mybatis源码浅析
 MySQL Innodb日志机制深入分析http://tech.uc.cn/?p=716
 eclipse debug breakpoing linenumberhttp://blog.csdn.net/wwbmyos/article/details/13503241
+MySQL数据库InnoDB存储引擎Log漫游http://blog.163.com/zihuan_xuan/blog/static/1287942432012366293667/
