@@ -495,3 +495,6 @@ String有有length()这个方法。
 　　其他形式:
 　　定义一个类，他的构造函数为private的，所有方法为static的。
 　　一般认为第一种形式要更加安全些
+　　
+　　
+　　http://www.webhek.com/misc/comparison-sort 排序动画
