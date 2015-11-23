@@ -507,3 +507,4 @@ String有有length()这个方法。
 每次合并都是最多O(n)的算法，合并的次数最多O(logn)，因此希尔排序理论上是O(nlogn)的算法，但由于需要大量的数组赋值，速度并不快。
 
 http://www.yashazs.com/News/106713.html java堆栈基础图
+http://blog.csdn.net/caiwenfeng_for_23/article/details/8496157 java 栈实现
