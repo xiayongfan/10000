@@ -2,5 +2,6 @@ http://blog.csdn.net/li_xiao_ming/article/details/8349115 spring学习之@ModelA
 http://www.cxyclub.cn/n/71357/shiro 授权心得 http://blog.csdn.net/jasonchris/article/details/40744289 http://www.cnblogs.com/davidwang456/p/4428421.html
 http://hkme.iteye.com/blog/518656 sitemesh入门 include request response filter lintener的讲解（jsp/servlet)
 深入浅出学Shiro细粒度权限开发框架 http://sishuok.com/forum/blogPost/list/7455.html
+JSTL函数库和自定义函数
 
 
