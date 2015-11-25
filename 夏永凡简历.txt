@@ -1,0 +1,83 @@
+
+5-7年工作经验 | 男 | 30岁(1985年10月 25日 )   
+(ID:337100728) 
+ 
+居住地： 武汉-洪山区   
+电　话： 13164164459（手机）   
+E-mail： xiayongfan@foxmail.com  
+ 
+最近工作 [ 6年5个月]  学历   
+公　司： 武汉笃志科技有限公司 
+行　业： 计算机软件 
+职　位： 开发工程师 
+ 学　历： 大专 
+专　业： 计算机科学与技术 
+学　校： 中南财经政法大学 
+ 
+
+--------------------------------------------------------------------------------
+求职意向   
+工作性质： 全职 
+期望薪资： 月薪 8000-9999 
+目标职能： 软件工程师 
+求职状态： 目前正在找工作 
+
+
+
+项目经验：
+负责湖北科技出版社在线图书系统开发
+项目描述：在线图书系统主要是为湖北科技出版社提供线上的图书浏览，订单，支付功能。
+功能描述：图书B2C(注册，登录，图书管理，订单管理，支付管理，图书卖家服务，图书买家服务）
+本人负责：从早期的登陆，注册功能，图书管理到后期整个系统的开发维护工作。
+采用技术：
+1.后端:
+  核心框架：Spring Framework      安全框架：Apache Shiro      视图框架：Spring MVC 
+  服务端验证：Hibernate Validator 布局框架：SiteMesh          任务调度：Spring Task
+  持久层框架：MyBatis             数据库连接池：Alibaba Druid 缓存框架：Ehcache 、Redis
+  日志管理：SLF4J 1.7、Log4j
+  工具类：Apache Commons、Jackson 、Xstream 、POI 3.9
+2.前端:
+  JS框架：jQuery             CSS框架：Twitter Bootstrap  客户端验证：JQuery Validation Plugin 
+  富文本：CKEcitor           文件管理：CKFinder          动态页签：Jerichotab
+  手机端框架：Jingle         数据表格：jqGrid            对话框：jQuery jBox
+  下拉选择框：jQuery Select2 树结构控件：jQuery zTree
+  日期控件： My97DatePicker
+3.开发工具：java svn mven eclipse
+4.技术架构：
+  负载均衡：nginx前端代理
+  集中式session：tomcat session采用redis存储
+  可靠性：nginx集群，tomcat集群，redis集群，mysql master slaver集群
+  动静分离：nginx处理静态请求，tomcat处理动态请求，redis存储图片
+  读写分离：mysql master slaver
+
+
+
+  湖北科技出版社OA系统
+  项目描述：湖北科技出版社提供在线办公，公文流转系统开发，建立内部沟通和通讯平台。
+  功能描述：1.内部沟通:电子邮件、手机短信、即时通讯、论坛和讨论区
+            2.行政办公:公告通知、新闻管理、日程管理、工作计划、工作日志、投票管理
+            3.业流程处理:工作流系统提供灵活、可视化的“智能表单设计器”和“流程设计器”
+            4.知识管理: 文档，文件，图片存储，检索
+            5.资源管理：会议，车辆，固定资产，办公用品，合同，档案等管理
+            6.报表管理：自定义图表分析，柱图，饼图，折线图等等
+          
+ 本人负责：资源管理，知识管理和内部沟通管理的模块开发与测试
+ 采用技术：spring，springmvc，jquery ，bootstrap，mybatis，mysql，tomcat，activiti
+
+
+
+
+湖北科技树版社CMS内容管理
+项目描述：湖北科技出版社提供在线办公，公文流转系统开发，建立内部沟通和通讯平台。
+功能描述：  1.内容采编模块:支持与Word、Excel等常用软件集成，内容编辑人员可以自由按自己的工作习惯输入
+            2.文件管理模块:提供了一个类似Windows Explorer界面的文件管理器
+            3.网站管理模块:管理站点中的频道和栏目结构以及期刊及其栏目结构
+            4.用户管理模块: 基于角色的用户管理，系统预先定义的角色有“系统管理员”，“网站管理员”、“编辑”、“内容录入”。用户可以增加自己的角色定义
+            5.模板管理与制作模块：内容采编系统中录入的内容如何生成成HTML页面
+            6.统计报告模块：自定义图表分析，柱图，饼图，折线图等等
+            
+ 本人负责：内容采编模块，用户管理模块
+ 采用技术：spring，springmvc，jquery ，bootstrap，mybatis，mysql，tomcat，activiti,CKEcitor,CKFinder,jqGrid,zTree
+
+
+  
