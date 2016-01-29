@@ -1,4 +1,5 @@
 # 10000
+http://www.myexception.cn/software-architecture-design/1230793.html
 HuQingmiao/mybatis-paginator
 MySQL核心内幕
 http://blog.jobbole.com/24006/
